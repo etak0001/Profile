@@ -6,7 +6,7 @@ body {
   border-bottom: 5px solid #222222;
   border-top: 5px solid #222222;
   padding: 50px;
-  background-colour: rgb(211,211,211);
+  background-colour: rgba(211,211,211,1.0)
 }
 
 a {
